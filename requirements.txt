@@ -2,3 +2,4 @@ This is chat application
 emoji
 color
 vibrant
+Dark mode
